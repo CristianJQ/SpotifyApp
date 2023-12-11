@@ -1,0 +1,20 @@
+.MusicCard {
+  padding: 1.25rem;
+  display: flex;
+  width: 100%;
+  height: 123px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  border-radius: 0.5rem;
+}
+
+.playlist-button {
+  border-radius: 0.5rem;
+  height: 40px;
+  width: 100px;
+}

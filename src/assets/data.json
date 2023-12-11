@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "music1",
+    "music_genre": "pop",
+    "authors": "author1",
+    "year": "2001"
+  },
+
+  {
+    "id": 2,
+    "name": "music2",
+    "music_genre": "rock",
+    "authors": "author2",
+    "year": "2004"
+  },
+
+  {
+    "id": 3,
+    "name": "music3",
+    "music_genre": "jazz",
+    "authors": "author3",
+    "year": "2004"
+  }
+]
